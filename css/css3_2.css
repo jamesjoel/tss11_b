@@ -1,0 +1,22 @@
+body{
+	background-color: #6985AB;
+}
+#box{
+	height: 200px;
+	width: 200px;
+	background-color: #7410AB;
+
+	/*border-top: 10px solid #000;
+	border-bottom: 10px solid red;
+	border-left: 10px solid green;
+	border-right: 10px solid yellow;*/
+
+	box-shadow: 3px 3px 3px #000;
+
+	/*border-radius: 0px 10px 0px 10px;*/
+	border-radius: 100px;
+}
+#box:hover{
+	box-shadow: 7px 7px 7px #000;
+
+}
