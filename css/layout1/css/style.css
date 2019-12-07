@@ -1,0 +1,69 @@
+body{
+	background-color: #FFF;
+	margin: 0;
+	padding: 0;
+	font-family: Helvetica;
+}
+#header{
+	height: 300px;
+	width: 100%;
+	background-color: #6D564A;
+	background-image: url("../image/church.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+#top{
+	height: 250px;
+	width: 100%;
+	/*background-color: red;*/
+	text-align: center;
+	text-transform: uppercase;
+}
+#middle{
+	height: 100px;
+	width: 100%;
+	background-color: #CF4945;
+}
+#slider{
+	height: 150px;
+	width: 100%;
+	background-color: #c1c1c1;
+}
+#content{
+	height: auto;
+	min-height: 500px;
+	background-color: #FFF;
+}
+#footer{
+	height: 150px;
+	width: 100%;
+	background-color: #CF4945;
+}
+
+#box1{
+	height: 200px;
+	width: 200px;
+	background-color: red;
+	float: right;
+}
+#box2{
+	float: right;
+	height: 200px;
+	width: 200px;
+	background-color: green;
+}
+.top-box{
+	height: 180px;
+	width: 300px;
+	/*background-color: red;*/
+	float: left;
+	margin: 5px 18px;
+}
+.top-box p{
+	font-size: 11px;
+	margin: 0;
+}
+.top-box h4{
+	margin: 0;
+	padding: 0
+}
