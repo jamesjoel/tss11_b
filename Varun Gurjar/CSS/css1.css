@@ -32,6 +32,7 @@ body{
 }
 .table{
 	margin: 5px 65px 0px;
+
 	
 }
 .table tr{
@@ -74,7 +75,11 @@ body{
   } 
 .box2{
 	float: left;
+<<<<<<< HEAD
 	width: 39%;
+=======
+	width:39%;
+>>>>>>> ff6c43db0e62623b939cb8d93f52cb2222c9eb42
 	height: 500px;
 	margin: 0px 0px 0px 0px;
 	
